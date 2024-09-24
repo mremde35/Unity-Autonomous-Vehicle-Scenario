@@ -1493,7 +1493,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ShortName: 
-  Name: Scenario 1
+  Name: test2-max
   Scene: MainScene
   Roles:
   - Name: Driver

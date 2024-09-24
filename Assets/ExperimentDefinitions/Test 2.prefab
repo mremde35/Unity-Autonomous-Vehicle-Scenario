@@ -478,7 +478,7 @@ Transform:
   m_GameObject: {fileID: 2362279868406790923}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.22246248, z: 0}
+  m_LocalPosition: {x: 241.9, y: 0.22246248, z: -7.1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -953,8 +953,6 @@ MonoBehaviour:
     - {fileID: 4463566463944099219}
     - {fileID: 8817832502716500346}
     - {fileID: 2205677779055882153}
-    - {fileID: 6871671385291334899}
-    - {fileID: 1006282605009764861}
   smoothRoute: 0
   editorVisualisationSubsteps: 500
 --- !u!1 &4845196738854411470
@@ -1094,7 +1092,7 @@ Transform:
   m_GameObject: {fileID: 5805787797847303217}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 123.7, y: 0, z: -1.8}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1113,12 +1111,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spawnParams:
-    SpawnPoint: {fileID: 0}
-    Track: {fileID: 0}
+    SpawnPoint: {fileID: 6750191569094715530}
+    Track: {fileID: 8043761391078894673}
     SpawnDriver: 1
     SpawnPassenger: 0
     Car: {fileID: 7713759469045616529, guid: 1baf460ab026f1247ab4696be569ffae, type: 3}
-    VehicleType: 0
+    VehicleType: 1
     color: {r: 0, g: 0, b: 0, a: 0}
     Labeled: 0
     customBehaviours: []

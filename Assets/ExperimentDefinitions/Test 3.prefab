@@ -963,7 +963,8 @@ MonoBehaviour:
   brakingAcceleration: 0
   YieldingEyeContactSince: 0
   YieldingEyeContactUntil: 0
-  customBehaviourData: []
+  customBehaviourData:
+  - {fileID: 11400000, guid: abd82af09d55a7a4abb42caf561cd1e8, type: 2}
 --- !u!1 &2802522991795371479
 GameObject:
   m_ObjectHideFlags: 0

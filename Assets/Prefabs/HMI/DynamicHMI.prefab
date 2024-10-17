@@ -52,8 +52,8 @@ MonoBehaviour:
   stopTrigger: stop
   walkTrigger: walk
   disabledTrigger: disabled
-  stop: {fileID: 2800000, guid: 23813615cd9c04c29a4c9027909d40ed, type: 3}
-  walk: {fileID: 2800000, guid: 92851b8f3977f4d5eb43a4626b180ff4, type: 3}
+  stop: {fileID: 2800000, guid: f372c74ca12e0b048ad591c24bd99deb, type: 3}
+  walk: {fileID: 2800000, guid: f372c74ca12e0b048ad591c24bd99deb, type: 3}
   disabled: {fileID: 2800000, guid: 2b603ce05be3bb143ae492a8d8e16fa4, type: 3}
 --- !u!95 &6022275925309530708
 Animator:

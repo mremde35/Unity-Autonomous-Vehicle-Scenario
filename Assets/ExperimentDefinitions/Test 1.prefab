@@ -7239,7 +7239,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ShortName: 
-  Name: Scenario 1
+  Name: Swerve/Brake Scene
   Scene: MainScene
   Roles:
   - Name: Driver
@@ -7285,6 +7285,8 @@ MonoBehaviour:
   - {fileID: 8156635355818172248}
   - {fileID: 656998704830763762}
   - {fileID: 8858517278747957473}
+  - {fileID: 4170124439270718296}
+  - {fileID: 6539600062139904657}
   AIPedestrians:
     AIPedestrians:
     - Pedestrian: {fileID: 7157347147832208027}

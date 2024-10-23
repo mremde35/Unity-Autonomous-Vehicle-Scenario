@@ -1,14 +1,9 @@
 fileFormatVersion: 2
-guid: 4dbbf2376d2854dd3a29f434e418dccc
+guid: a7b99087c0be3124393d1f13e970505f
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: 18509_PitchforkMat
-    second: {fileID: 2100000, guid: a4126c78240927f4fb684ac9f7f21494, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
